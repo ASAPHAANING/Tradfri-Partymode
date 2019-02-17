@@ -1,0 +1,19 @@
+{
+	"name": "Tradfri Partymode",
+	"version": "1.0.0",
+	"author": "Frederik Haaning",
+	"description": "Controls IKEA lights and does some colory stuff and some blinky goodness",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@types/node": "^11.9.3",
+		"node-pulseaudio": "0.0.6",
+		"node-tradfri-client": "^1.5.0"
+	}
+}
