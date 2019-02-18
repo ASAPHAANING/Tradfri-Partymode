@@ -4,3 +4,6 @@ such that a kick will trigger both brightness and perhaps a specific color.
 
 ## Setup
 Read below on your IKEA Tradfri Gateway and find the security code. Put that into the config.json, the script should handle the rest.
+
+## Run
+npm start
